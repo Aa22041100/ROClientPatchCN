@@ -6,7 +6,7 @@
         <extendedslot>2</extendedslot>
 		
 		<connection>
-                <display>^ff0000欢迎进入^000000 [ rAthenaCN ] 简体中文 [单机测试]</display>
+                <display>^ff0000欢迎进入^000000 [ rAthenaCN ] 简体中文 [单机]</display>
                 <desc></desc>
                 <balloon></balloon>
                 <address>127.0.0.1</address>
